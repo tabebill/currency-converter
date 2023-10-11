@@ -4,7 +4,7 @@ from requests import get
 app = Flask(__name__)
 
 BASE_URL = "https://free.currconv.com/"
-API_KEY = "API_KEY"
+API_KEY = "57af6107d5a124698e14"
 
 @app.route('/')
 def index():

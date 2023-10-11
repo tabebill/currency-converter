@@ -3,6 +3,8 @@
 
 Welcome to the Currency Converter web application! This project allows you to easily convert between different currencies, check exchange rates, and explore global currencies.
 
+![App Screenshot](./screenshot.png)
+
 ## Table of Contents
 
 - [Features](#features)
